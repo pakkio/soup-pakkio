@@ -1,0 +1,10 @@
+# Trained adapters, checkpoints and run artifacts (hundreds of MB)
+output*/
+.soup-crashes/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
